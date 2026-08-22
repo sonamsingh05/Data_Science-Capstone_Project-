@@ -84,8 +84,9 @@ Telco-Customer-Churn/
 ├── 📄 README.md
 └── 📊 Dataset
 
-### 👩‍💻 Author
+## 👩‍💻 Author
 
-***Sonam Singh***
+**Sonam Singh**
 
-🎓 BCA | Aspiring Data Science & Machine Learning Professional
+🎓 BCA Student  
+📊 Aspiring Data Science & Machine Learning Professional
