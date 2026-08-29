@@ -90,11 +90,14 @@ This project demonstrates how Data Analysis and Machine Learning can be used to 
 
 The analysis helped identify important customer behavior patterns, while classification models provided a way to predict churn. These insights can help businesses take proactive steps to improve customer retention and reduce churn.
 
+## 📁 Project Structure
+
+```text
 Data_Science-Capstone_Project-/
 │
-├── Capstone_pro_2.ipynb
-├── README.md
-└── Dataset.csv
+├── 📓 Capstone_pro_2.ipynb
+├── 📄 README.md
+└── 📊 Dataset.csv
 
 👩‍💻 Author
 
