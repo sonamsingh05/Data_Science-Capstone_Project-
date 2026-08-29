@@ -1,4 +1,4 @@
-# 📊 Telco Customer Churn Prediction
+# 📊 Data_Science_Capstone_Project
 
 ### 🎓 Capstone Project | Data Science & Machine Learning
 
@@ -83,6 +83,21 @@ Telco-Customer-Churn/
 ├── 📓 Capstone pro 2.ipynb
 ├── 📄 README.md
 └── 📊 Dataset
+
+## 💡 Key Insights
+
+- Customer churn is influenced by factors such as tenure and monthly charges.
+- Customers with shorter tenure are more likely to churn.
+- Higher monthly charges can be associated with increased churn risk.
+- Data preprocessing and feature scaling improved the quality of data for Machine Learning.
+- Logistic Regression and Decision Tree were used to classify customers based on churn.
+- Recall is an important metric for churn prediction because identifying potential churners helps businesses take proactive action.
+
+## 📝 Conclusion
+
+This project demonstrates how Data Analysis and Machine Learning can be used to understand customer churn and predict customers who are likely to leave.
+
+The analysis helped identify important customer behavior patterns, while classification models provided a way to predict churn. These insights can help businesses take proactive steps to improve customer retention and reduce churn.
 
 👩‍💻 Author
 
