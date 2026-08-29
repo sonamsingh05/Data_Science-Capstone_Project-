@@ -95,7 +95,7 @@ The analysis helped identify important customer behavior patterns, while classif
 ```text
 Data_Science-Capstone_Project-/
 │
-├── 📓 Capstone_pro_2.ipynb
+├── 📓 Capstone_pro_.ipynb
 ├── 📄 README.md
 └── 📊 Dataset.csv
 
